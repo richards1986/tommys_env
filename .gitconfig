@@ -1,0 +1,10 @@
+[user]
+	email = tom.richards@specsavers.com
+	name = Tom Richards
+[http]
+	sslverify = false
+	sslCAPath = /etc/pki/tls/certs
+[push]
+	default = simple
+[core]
+	editor = vim
